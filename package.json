@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "name": "collatz-fun",
+  "description": "a(n unoptomized) way to explore the Collatz conjecture",
   "main": "lib/index.js",
   "scripts": {
     "start": "babel-node src/index.js",

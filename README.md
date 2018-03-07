@@ -1,7 +1,9 @@
 # collatz-fun
 
 
-The [Collatz conjecture] is neat.  This is an unoptomized way to explore it.
+The [Collatz conjecture] is neat.  This is a(n unoptomized) way to explore it.
+
+[![Build Status](https://travis-ci.org/reergymerej/collatz-fun.svg?branch=master)](https://travis-ci.org/reergymerej/collatz-fun)
 
 
 ## Install
