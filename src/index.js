@@ -49,3 +49,9 @@ export default {
   sequence,
   info,
 }
+
+export {
+  next,
+  sequence,
+  info,
+}
